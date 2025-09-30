@@ -14,7 +14,7 @@ VNes é um aplicativo emulador de NES desenvolvido em React Native. Com ele, voc
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/vnes.git
+    git clone https://github.com/JhonPaulMR/vnes-mobile
     ```
 2. Instale as dependências:
     ```bash
