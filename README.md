@@ -34,4 +34,7 @@ VNes é um aplicativo emulador de NES desenvolvido em React Native. Com ele, voc
 2. Importe uma ROM de NES (.nes) pelo menu.
 3. Use os controles virtuais para jogar.
 
+## Limitações
+
+- Devido a biblioteca JSNES não ser otimizada para mobile, os jogos rodam em uma velocidade lenta e sem áudio
 
