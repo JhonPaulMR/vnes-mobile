@@ -24,8 +24,8 @@ VNes é um aplicativo emulador de NES desenvolvido em React Native. Com ele, voc
 3. Execute o app:
     ```bash
     yarn start
-    # ou
-    yarn start web
+    # após isto digite a opção desejável
+    # ex: Press W / open web
     ```
 
 ## Como usar
