@@ -18,7 +18,7 @@ VNes é um aplicativo emulador de NES desenvolvido em React Native. Com ele, voc
     ```
 2. Instale as dependências:
     ```bash
-    cd vnes
+    cd vnes-mobile
     npm install
     ```
 3. Execute o app:
